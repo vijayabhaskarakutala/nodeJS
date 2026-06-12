@@ -1,0 +1,3 @@
+npm - node package manager
+lodash - to manipulate data
+third party library

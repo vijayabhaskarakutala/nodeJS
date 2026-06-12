@@ -1,0 +1,4 @@
+Node.js Calculator
+Type an expression like 12 + 3, or type exit to quit.
+calc> = 15
+calc> 
